@@ -1,0 +1,9 @@
+.footer__column-link{
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+  }
+  .footer__column-link:hover{
+    transform: scale(1.2);
+    opacity: 0.5;
+  }
