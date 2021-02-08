@@ -4,6 +4,7 @@
     width: 568px;
     position: absolute;
     right: 0;
-   top: 64px;
-   z-index: -2;
-  }
+    top: 64px;
+    z-index: -2;
+    animation: rotation 20s linear infinite;
+}

@@ -1,0 +1,9 @@
+.feynman{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    position: relative;
+    min-height: 790px;
+    background-color: #f2f2f2;
+    padding-top: 100px;
+    z-index: 1;
+  }
+  
