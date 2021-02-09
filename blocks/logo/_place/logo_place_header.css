@@ -5,3 +5,6 @@
     top: 30px;
     left: 64px;
   }
+  .logo_place_header:hover{
+    opacity: 0.5;
+  }
